@@ -3,3 +3,5 @@ krs semester ini
 - alin
 - fisika
 - kimia
+- praktikum pemrograman
+- biologi
